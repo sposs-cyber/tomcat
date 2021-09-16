@@ -9,7 +9,7 @@ This repository contains files to run a sample application on Tomcat 8 and demon
 2. Clones the source code of a sample web application (You can substitute that with your own git repo)
 3. Builds the application using maven
 4. Copies the built war file to the webapps directory as ROOT.war
-5. Runs catalina.sh as entrypoint script
+5. Runs catalina.sh as entrypoint script.
 
 ## The cloudbuild.yaml file
 
